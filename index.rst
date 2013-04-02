@@ -6,11 +6,12 @@
 福岡Debian勉強会のドキュメントページへようこそ
 ================================================
 
-Contents:
+第03回勉強会
 
 .. toctree::
    :maxdepth: 2
-   
+
+   event03
+   event03_yamada
    event03_ayakomuro
-
-
+   event03_ayakomuro_slide
