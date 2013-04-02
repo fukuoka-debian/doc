@@ -12,5 +12,6 @@
    :maxdepth: 2
 
    event03
+   event03_yamada
    event03_ayakomuro
    event03_ayakomuro_slide
